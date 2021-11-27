@@ -1,0 +1,46 @@
+DWH: Huge DB which is used for querying and analyzing data
+ETL: 
+1.Extraction
+2.Transformation: 4 major things..1. Cleansing 2. Scrubbing 3.Merging 4. Aggregaion
+ and
+3.Loading
+---
+DM and DWH
+DM?
+Subject areas: sales, product, salaries, etc
+DWH: is the cobination of all subject areas
+DM: a subset of DWH, deals with single subjecgt area ,faster reads or qucik query reults
+any no of data marts can be build-
+
+-----
+Dimensional Modelling: It is an appproach to build a DWH / DM / EDW
+Assingment: at least 2 diffrences betwwen DWH and EDW(Enterpraise dwh)
+Every database DB contains Dimensional Modelling
+
+Nmaes for convenience
+whole Dimensional Modelling consits of :
+Dimension Tables
+Fact tables:
+-----
+Fact types:
+Additive
+Semi Additive
+Non addive facts
+
+
+Fact table types:
+Snap shot fact table
+Cumulative fact table
+Factless fact table
+-----
+Dimension Tables:
+Confirmed Dimension
+Degenerative Dimension
+Junk Dimension
+
+-----------
+Star schema
+Snowflake schema
+
+
+

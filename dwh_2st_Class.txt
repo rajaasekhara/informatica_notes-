@@ -1,0 +1,41 @@
+DWH: 
+Domains:
+Tools & tech: 
+-----
+naming convention--- Convenitent/ simple
+-----
+Before DWH:
+Physical..Notebooks
+computer ntepad---not secured, not reliable, not easy to search/query, computation difficult
+Excel sheets: 
+SQL: DB: Oracle..DB2, Teradata(select * from table; --- sel * from table)
+ANSI:
+ACID as shorthand for Atomicity, Consistency, Isolation, and Durability, building on earlier work by Jim Gray
+Atomicity: complete or nothing eg. atm: 
+Consistency: samething every time / all the time
+Isolation: atm
+select * from amarsbiac where payingamtto redbus is 1000 and payamtto swiggy is 1000
+Durability: long losting: once entered , it should be fore ever/ life time..never be deleted by its own
+-----
+Assignment: 
+------
+oracle, informatica +unix
+----
+DWH:
+DM: Data Mart
+OLTP: Online Transactional Prcessing: computer...internte...server(db-oracle)
+sales boy simply scan the product....shoes: insert into sales (amar,shoes,8.35am,1999/-,kphb....etc)
+atm: insert atm cart...inserting a sql query..i want to check balance: select balance from amaraccount<ac#no> 
+pin change: issue update statemnt 9090...9191
+update table where pin=......
+
+OLAP: Online Analytical Processing
+DIM Table: Dimension table
+Fact Table
+Data Models: Conceptual, Logica and Physica
+Normaalization
+Different Keys
+10
+90
+300
+2200
